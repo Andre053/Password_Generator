@@ -10,3 +10,5 @@ Features
 1. Simple GUI
 2. Button to generate into textbox
 3. Able to regenerate new passwords with same setting with each button press
+
+Uses a simple algorithm that takes in the input constraints and returns a random password that satisfies all constrainsts.
